@@ -30,6 +30,6 @@ struct Example1ContentView: View {
 
 struct Example1ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        Example2ContentView()
+        Example1ContentView()
     }
 }
